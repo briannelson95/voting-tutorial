@@ -1,4 +1,4 @@
-const MAX_LENGENDS = 21
+const MAX_LENGENDS = 493
 
 export const getRandom: (notThisOne?: number) => number = (
     notThisOne
